@@ -5,7 +5,7 @@
 **/
 
 
-include 'func/getlink.php';
+include 'func/shortlink.php';
 
 $link = 'https://www.facebook.com/pvp.phatnguyen'; // Link cần rút gọn
 
