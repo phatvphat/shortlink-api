@@ -13,6 +13,7 @@ shorte_apitoken = '';
 <!--END API ShortLink v1.0-->
 
 2. Điền UserId Adf.ly của bạn vào dòng adf_userid và Api Token Shorte.st của bạn vào dòng shorte_apitoken.
+Code chỉ rút gọn các liên kết ngoài trừ domain có chuỗi blogspot.com và blogger.com
 
 
 Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. https://www.facebook.com/pvp.phatnguyen
