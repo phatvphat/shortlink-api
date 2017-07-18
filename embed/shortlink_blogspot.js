@@ -13,7 +13,8 @@ var pvp_arr_sl = ["adf","shorte"];
 var pvp_arr = [], pvp_l = document.links;
 for(var i=0;i<pvp_l.length;i++) {
 //	arr.push(pvp_l[i].href.search("blogspot.com"));
-	if(pvp_l[i].href.search(/\/[0-9][0-9][0-9][0-9]\/[0-9][0-9]\//i)>=0&&pvp_l[i].href.search("blogger.com")<0)
+	//if(pvp_l[i].href.search("blogspot.com")<0&&pvp_l[i].href.search("blogger.com")<0)
+	if(pvp_l[i].href.search(/blogspot.com\/[0-9][0-9][0-9][0-9]\/[0-9][0-9]\//i)>=0&&pvp_l[i].href.search("blogger.com")<0)
 	{
 		y_rand = rand_shortlink();
 		if(pvp_arr_sl[y_rand]=='adf')
