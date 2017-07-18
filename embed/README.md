@@ -1,6 +1,6 @@
 Cách dùng:
 
-	1. Nhúng toàn bộ dòng code dưới đây vào trước thẻ </body>:
+	1. Nhúng toàn bộ dòng code dưới đây đặt vào trước thẻ </body>:
 <!--API ShortLink v1.0
 Để toàn bộ code trước thẻ </body>-->
 <script>// Code có hơi thô sơ... :v
