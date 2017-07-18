@@ -16,4 +16,4 @@ shorte_apitoken = '';
 Code chỉ rút gọn các liên kết ngoài trừ domain có chuỗi blogspot.com và blogger.com
 
 
-Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. https://www.facebook.com/pvp.phatnguyen
+Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. Liên hệ tại https://www.facebook.com/pvp.phatnguyen
