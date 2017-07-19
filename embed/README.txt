@@ -2,7 +2,7 @@ Cách dùng:
 
 1. Nhúng toàn bộ dòng code dưới đây đặt vào trước thẻ </body>:
 
-<!--API ShortLink v1.0
+<!--API ShortLink v1.2
 Để toàn bộ code trước thẻ </body>-->
 <script>
 adf_userid = ''; // Adf.ly
@@ -13,7 +13,7 @@ linkearn_apitoken = '';  // Link-earn.com
 </script>
 <!--Dòng này phải đặt sau code trên-->
 <script src="https://svsp.cf/shortlink/shortlink_blogspot.js" type="text/javascript"></script>
-<!--END API ShortLink v1.0-->
+<!--END API ShortLink v1.2-->
 
 2.1 Điền UserId Adf.ly vào dòng adf_userid.
 2.2 Điền Api Token Shorte.st vào dòng shorte_apitoken.
