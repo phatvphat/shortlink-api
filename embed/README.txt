@@ -13,9 +13,10 @@ bc_userid = '';
 <script src="https://svsp.cf/shortlink/shortlink_blogspot.js" type="text/javascript"></script>
 <!--END API ShortLink v1.0-->
 
-2.1 Điền UserId Adf.ly của bạn vào dòng adf_userid.
-2.2 Điền Api Token Shorte.st của bạn vào dòng shorte_apitoken.
-2.3 Điền UserId Bc.vc của bạn vào dòng bc_userid. Lấy UserId tại đây: http://bc.vc/tools.php?easy // http://bc.vc/(UserId)/www.google.com
+2.1 Điền UserId Adf.ly vào dòng adf_userid.
+2.2 Điền Api Token Shorte.st vào dòng shorte_apitoken.
+2.3 Điền UserId Bc.vc vào dòng bc_userid. Lấy UserId tại đây: http://bc.vc/tools.php?easy // http://bc.vc/(UserId)/www.google.com
+2.4 Điền UserId Adhy.pe vào dòng adhy_userid. Lấy UserId tại đây: http://adhy.pe/tools/api // http://ah.pe/a/(UserId)/<your link>
 
 Code chỉ rút gọn các liên kết ngoài trừ domain có chuỗi blogger.com
 
