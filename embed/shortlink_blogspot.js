@@ -22,13 +22,13 @@ $(document).ready(function(){
 	}
 	// Shortlink
 	function rand_shortlink(){
-		var x = Math.floor((Math.random()*4));
+		var x = Math.floor((Math.random()*5));
 	return x;
 	}
 	if(detectMob() == true){
-		var pvp_arr_sl = ["adf","bc","adf","bc"];
+		var pvp_arr_sl = ["adf","bc","adf","bc","adf"];
 	}else{
-		var pvp_arr_sl = ["adf","shorte","bc","adhy"];
+		var pvp_arr_sl = ["adf","shorte","bc","adhy","linkearn"];
 	}
 	var pvp_arr = [], pvp_l = document.links;
 	for(var i=0;i<pvp_l.length;i++) {
@@ -54,6 +54,11 @@ $(document).ready(function(){
 			else if(pvp_arr_sl[y_rand]=='adhy')
 			{
 				pvp_l[i].setAttribute('href','http://ah.pe/a/'+adhy_userid+'/'+pvp_l[i].href);
+				
+			}
+			else if(pvp_arr_sl[y_rand]=='linkearn')
+			{
+				pvp_l[i].setAttribute('href','https://link-earn.com/st/?api='+linkearn_apitoken+'&url='+pvp_l[i].href);
 				
 			}
 			else
