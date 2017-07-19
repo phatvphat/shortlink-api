@@ -22,13 +22,13 @@ $(document).ready(function(){
 	}
 	// Shortlink
 	function rand_shortlink(){
-		var x = Math.floor((Math.random()*3));
+		var x = Math.floor((Math.random()*4));
 	return x;
 	}
 	if(detectMob() == true){
-		var pvp_arr_sl = ["adf","bc","adf"];
+		var pvp_arr_sl = ["adf","bc","adf","bc"];
 	}else{
-		var pvp_arr_sl = ["adf","shorte","bc"];
+		var pvp_arr_sl = ["adf","shorte","bc","adhy"];
 	}
 	var pvp_arr = [], pvp_l = document.links;
 	for(var i=0;i<pvp_l.length;i++) {
@@ -49,6 +49,11 @@ $(document).ready(function(){
 			else if(pvp_arr_sl[y_rand]=='bc')
 			{
 				pvp_l[i].setAttribute('href','http://bc.vc/'+bc_userid+'/'+pvp_l[i].href);
+				
+			}
+			else if(pvp_arr_sl[y_rand]=='adhy')
+			{
+				pvp_l[i].setAttribute('href','http://ah.pe/a/'+adhy_userid+'/'+pvp_l[i].href);
 				
 			}
 			else
