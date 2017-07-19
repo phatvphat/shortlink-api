@@ -4,10 +4,11 @@ Cách dùng:
 
 <!--API ShortLink v1.0
 Để toàn bộ code trước thẻ </body>-->
-<script>// Code có hơi thô sơ... :v
-adf_userid = '';
-shorte_apitoken = '';
-bc_userid = '';
+<script>
+adf_userid = ''; // Adf.ly
+shorte_apitoken = ''; // Shorte.st
+bc_userid = ''; // Bc.vc
+adhy_userid = ''; // Adhy.pe
 </script>
 <!--Dòng này phải đặt sau code trên-->
 <script src="https://svsp.cf/shortlink/shortlink_blogspot.js" type="text/javascript"></script>
