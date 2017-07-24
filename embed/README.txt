@@ -2,28 +2,24 @@ Cách dùng:
 
 1. Nhúng toàn bộ dòng code dưới đây đặt vào trước thẻ </body>:
 
-<!--API ShortLink v1.2
+<!--API ShortLink v2.0
 Để toàn bộ code trước thẻ </body>-->
 <script>
 adf_userid = ''; // Adf.ly
 shorte_apitoken = ''; // Shorte.st
 bc_userid = ''; // Bc.vc
-adhy_userid = ''; // Adhy.pe
-linkearn_apitoken = ''; // Link-earn.com
 adfoc_userid = ''; // Adfoc.us
 ppw_userid = ''; // P.pw
 admy_apikey = ''; // Admy.link
-ouo_userid = ''; // Ouo.io
-linktop_apitoken = ''; // 123link.top
-uskip_userid = ''; // Uskip.me
+
 </script>
 <!--Dòng này phải đặt sau code trên-->
 <script src="http://svsp.cf/shortlink/shortlink_blogspot.js" type="text/javascript"></script>
-<!--END API ShortLink v1.2-->
+<!--END API ShortLink v2.0-->
 
 2. Điền UserId hoặc API Key Token tương ứng vào mỗi dòng.
 
-Code chỉ rút gọn các liên kết ngoài trừ domain có chuỗi blogger.com
-
+Code chỉ rút gọn các liên kết có chuỗi năm/tháng/ngày ngoài trừ domain có blogger.com.
+Thông báo: Hiện tại mình đang và update hỗ trợ web có nhu cầu xài riêng, nếu cần tìm hiểu dịch vụ mình có thể inbox qua Facebook.
 
 Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. Liên hệ tại https://www.facebook.com/pvp.phatnguyen
