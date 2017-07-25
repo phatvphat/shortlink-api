@@ -11,12 +11,18 @@ bc_userid = ''; // Bc.vc
 adfoc_userid = ''; // Adfoc.us
 ppw_userid = ''; // P.pw
 admy_apikey = ''; // Admy.link
-
 </script>
 <!--Dòng này phải đặt sau code trên-->
 <script src="http://svsp.cf/shortlink/shortlink_blogspot.js" type="text/javascript"></script>
 <!--END API ShortLink v2.0-->
-
+<script>// Tuỳ chỉnh quảng cáo // Có cookie pvp_ads = true|false
+$(document).ready(function(){
+	if(getCookie('pvp_ads')=='true')
+	{
+		/* code ads để đây... .v.v. */
+	}
+});
+</script>
 2. Điền UserId hoặc API Key Token tương ứng vào mỗi dòng.
 
 Code chỉ rút gọn các liên kết có chuỗi năm/tháng/ngày ngoài trừ domain có blogger.com.
