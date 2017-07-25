@@ -23,7 +23,7 @@ $(document).ready(function(){
 });
 </script>
 <!--END API ShortLink v2.0-->
-2. Điền UserId hoặc API Key Token tương ứng vào mỗi dòng.
+2. Điền UserId hoặc API Key Token tương ứng vào mỗi dòng hoặc thêm code ads tuỳ chỉnh vào đoạn script dưới.
 
 Code chỉ rút gọn các liên kết có chuỗi năm/tháng/ngày ngoài trừ domain có blogger.com.
 Thông báo: Hiện tại mình đang và update hỗ trợ web có nhu cầu xài riêng, nếu cần tìm hiểu dịch vụ mình có thể inbox qua Facebook.
