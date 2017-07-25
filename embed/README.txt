@@ -4,7 +4,7 @@ Cách dùng:
 
 <!--API ShortLink v2.0
 Để toàn bộ code trước thẻ </body>-->
-<script>
+<script>// Dùng cái nào thêm cái đó
 adf_userid = ''; // Adf.ly
 shorte_apitoken = ''; // Shorte.st
 bc_userid = ''; // Bc.vc
