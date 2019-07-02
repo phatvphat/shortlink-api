@@ -23,9 +23,11 @@ $(document).ready(function(){
 });
 </script>
 <!--END API ShortLink v2.0-->
+
 2. Điền UserId hoặc API Key Token tương ứng vào mỗi dòng hoặc thêm code ads tuỳ chỉnh vào đoạn script dưới.
 
 Code chỉ rút gọn các liên kết có chuỗi năm/tháng/ngày ngoài trừ domain có blogger.com.
 Thông báo: Hiện tại mình đang và update hỗ trợ web có nhu cầu xài riêng, nếu cần tìm hiểu dịch vụ mình có thể inbox qua Facebook.
 
-Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. Liên hệ tại https://www.facebook.com/pvp.phatnguyen
+Copyright@2017 - Code được UPDATE và hỗ trợ bởi PhátNguyễn. Liên hệ tại https://www.facebook.com/page.PvP
+THÔNG BÁO 2/7/2019: Ngưng hỗ trợ và sử dụng code.
